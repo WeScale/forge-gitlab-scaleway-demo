@@ -18,7 +18,7 @@
     }
   ],
   "provisioners": [
-   {   
+   {
      "type": "shell",
      "inline": [
          "sleep 30",
@@ -29,7 +29,7 @@
 	 "curl -LO https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh",
 	 "bash /tmp/script.deb.sh",
 	 "apt install gitlab-ce"
-     ]   
-   }   
+     ]
+   }
  ]
 }

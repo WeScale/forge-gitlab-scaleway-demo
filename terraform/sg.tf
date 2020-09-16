@@ -14,4 +14,3 @@ resource "scaleway_instance_security_group" "gitlab" {
     ip     = chomp(data.http.myip.body)
   }
 }
-

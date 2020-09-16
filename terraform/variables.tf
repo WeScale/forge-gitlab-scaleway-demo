@@ -38,4 +38,3 @@ variable "adminIP" {
 variable "db_user" {
   default = "gitlab"
 }
-
