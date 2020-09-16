@@ -4,7 +4,7 @@ This project is a lab using IaC, Hashicorp Terraform and Packer to build a Gitla
 
 If you need more information about this, please read the following blog post (in french) : [Link](blog.wescale.fr/une-forge-logicielle-gitlab-kubernetes-hebergee-chez-scaleway-totalement-en-infrastructure-as-code/ )
 
-## Disclamer 
+## Disclamer
 
 This is an Lab project ! Do not use it directly on production ;) You can by improving it and share the result of course.
 
