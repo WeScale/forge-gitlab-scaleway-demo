@@ -1,0 +1,14 @@
+{
+  "registry.terraform.io/hashicorp/http": {
+    "hash": "h1:g5/qN61yBHRqpGVm08BnBp1O3vVf1eIpMglYvsY13XE=",
+    "version": "1.2.0"
+  },
+  "registry.terraform.io/hashicorp/random": {
+    "hash": "h1:nFL6uiwsQFLiP8QCr35sPfWe9LpXI3/c7gP9tYnih+k=",
+    "version": "2.3.0"
+  },
+  "registry.terraform.io/scaleway/scaleway": {
+    "hash": "h1:OTciCOmf2kUajrWnXBpCwHfWeHnomXZBzJn3wWhiiv8=",
+    "version": "1.16.0"
+  }
+}

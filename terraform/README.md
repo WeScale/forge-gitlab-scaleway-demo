@@ -1,0 +1,1 @@
+Note importante : Scaleway ne permets pas de modifier la sécurité de la base de donné avec Terraform, par défault celle-ci est donc accessible en 0.0.0.0/0 ! Vous pouvez changer cela dans la console, dans les paramètres de votre RDS "Allowed-IPs"
